@@ -6,4 +6,5 @@
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/213578e4-e3d9-4ee1-83a2-3a313a1a6f14" />
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/f8af7e88-3964-4567-9d2b-7adfe5f27a08" />
 
-Demo video (https://github.com/user-attachments/assets/2a734384-f880-4a30-9470-aca0c6b01b6f)
+https://github.com/user-attachments/assets/59c4ec7d-b9fa-457f-beed-c01eafc62e33
+
